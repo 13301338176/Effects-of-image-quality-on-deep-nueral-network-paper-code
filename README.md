@@ -4,4 +4,4 @@ I have used the 1% of validation data imagenet dataset and results are obtained 
 The result graph is not smooth due to computational limitations ,only 500 images were used.
 
 
-Image dataset is stored in '/content/drive/My Drive/proposal' and the meta and sysnet file is dtored in the same folder.
+Image dataset is stored in '/content/drive/My Drive/proposal' and the meta and sysnet file is stored in the same folder.
